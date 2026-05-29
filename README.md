@@ -1,6 +1,6 @@
 # PoB2 → PoE2 Build Planner
 
-Converts Path of Building 2 share codes into `.build` files that the in-game Path of Exile 2 Build Planner loads automatically.
+Converts [Path of Building (PoE2)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) share codes into `.build` files that the in-game Path of Exile 2 Build Planner loads automatically.
 
 ## Setup
 
