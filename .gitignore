@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+docs/
+
+# Personal PoB share codes and generated build files
+pob_raw/*.pob
+pob_raw/*.raw
+build_output/
+
+# GGG passive tree data — download separately, see README
+ggg_data/data.json
