@@ -17,7 +17,7 @@ Converts Path of Building 2 share codes into `.build` files that the in-game Pat
 
 ## Usage
 
-1. Open your build in Path of Building 2.
+1. Open your build in Path of Building (PoE2).
 
 2. Click **Generate** under Import/Export. Copy the share code and paste it into a `.pob` file under `pob_raw/`. The filename becomes the build name shown in-game.
    ```
